@@ -1,3 +1,37 @@
-﻿body
-{
+﻿body {
+    background-color: lavenderblush;
+    color: black;
+    font-family:Georgia;
+}
+#title{
+    text-align:center;
+}
+#name{
+    background-color:black;
+    color:lavenderblush;
+}
+ul{
+    list-style-type:none;
+    padding:20px;
+    font-size:125%;
+    text-align:center;
+}
+#links{
+    text-align:center;
+}
+li a{
+    text-decoration:none;
+    padding:20px;
+    margin:20px;
+    display:inline;
+}
+ul#list{
+    min-width:696px;
+    padding-top:20px;
+}
+ul#list li{
+    display:inline;
+}
+#contact{
+    text-align:center;
 }

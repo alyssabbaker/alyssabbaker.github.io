@@ -1,3 +1,42 @@
-﻿body
+﻿body {
+    background-color: lavenderblush;
+    color: black;
+    font-family:Georgia;
+}
+
+#title {
+    text-align: center;
+    background-color:black;
+    color:lavenderblush;
+}
+#school{
+    text-align:center;
+}
+#uhs{
+    list-style-type:disc;
+    list-style-position:inside;
+}
+#tcc{
+    list-style-type:disc;
+    list-style-position:inside;
+}
+#ou{
+    list-style-type:disc;
+    list-style-position:inside;
+}
+#courses{
+    text-align:center;
+}
+#volun
 {
+    text-align:center;
+}
+ul{
+    padding:20px;
+    font-size:125%;
+    text-align:center;
+    list-style:none;
+}
+li{
+    margin:5px;
 }

@@ -1,0 +1,37 @@
+﻿body
+{
+    background-color:lavenderblush;
+    color:black;
+    font-family:Georgia;
+}
+#title
+{
+    background-color:black;
+    color:lavenderblush;
+    text-align:center;
+}
+#prg{
+    float:left;
+    padding:20px;
+    display:block;
+    width:33.333%;
+}
+#int{
+    float:inherit;
+    padding:20px;
+    display:block;
+    width:33.333%;
+}
+#other{
+    float:left;
+    padding:20px;
+    display:block;
+    width:33.333%;
+}
+li{
+    list-style-type:none;
+    padding:5px;
+}
+.row{
+    display:flex;
+}
