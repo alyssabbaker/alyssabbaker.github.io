@@ -35,3 +35,32 @@ li{
 .row{
     display:flex;
 }
+h2{
+    text-align:center;
+}
+
+#links {
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
+    display: inline;
+}
+
+ul#list {
+    min-width: 696px;
+    padding-top: 20px;
+}
+
+    ul#list li {
+        display: inline;
+    }
+ul {
+    list-style-type: none;
+    padding: 20px;
+    font-size: 125%;
+    text-align: center;
+}

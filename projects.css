@@ -9,17 +9,43 @@
     background-color:black;
     color:lavenderblush;
 }
-ul{
+#project{
     list-style-type:none;
     display:table-row;
+    text-align:center;
 }
 #title{
     text-align:center;
 }
 li{
-    font-size:125%;
+    font-size:100%;
     text-align:center;
 }
 h2{
     text-align:center;
+}
+#links {
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
+    display: inline;
+}
+
+ul#list {
+    min-width: 696px;
+    padding-top: 20px;
+}
+
+ul#list li {
+    display: inline;
+}
+ul {
+    list-style-type: none;
+    padding: 20px;
+    font-size: 125%;
+    text-align: center;
 }
